@@ -19,7 +19,7 @@
         <!-- API Key untuk Google Maps -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="AIzaSyB3-eaHYqZXQDjjX_h4WKBnls8L4xdcWeM" />
 
         <!-- Jadikan MapsActivity sebagai activity utama -->
         <activity
